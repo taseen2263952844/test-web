@@ -1,0 +1,6 @@
+{
+  "name": "Restaurant Starter",
+  "description": "Production-ready English restaurant ordering website and owner dashboard built for Cloudflare Workers, D1 database, and optional R2 image storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
